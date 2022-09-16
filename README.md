@@ -9,5 +9,5 @@
 - Lab6 : Cache Simulator
 
 Every lab got full score.  
-For instruction detail see slides in each dir.  
+Every labs include slide and report. For instruction included in each labs please see slides, for my implementation detail please refer to my report.  
 Environment : verilog, wsl, VScode.
