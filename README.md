@@ -8,6 +8,6 @@
 - Lab5 : 5-Stage Pipeline Processor
 - Lab6 : Cache Simulator
 
-Every lab got 100 points.  
+Every lab got full score.  
 For instruction detail see slides in each dir.  
 Environment : verilog, wsl, VScode.
